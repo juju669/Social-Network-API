@@ -7,7 +7,7 @@ const UserSchema = new Schema(
       type: String,
       minLength: 6,
       maxLength: 16,
-      required: [true, "this need to be fill"],
+      required: [true, " field is required"],
       trim: true,
       unique: true,
     },
