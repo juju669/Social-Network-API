@@ -1,0 +1,29 @@
+{
+  "name": "social-netowrk",
+  "version": "1.0.0",
+  "description": "social app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juju669/Social-Network-API.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Juju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juju669/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/juju669/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.14",
+    "validator": "^13.6.0"
+  }
+}
