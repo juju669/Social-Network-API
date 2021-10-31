@@ -34,9 +34,8 @@
   - [About](#about)
   - [Built With](#built-with)
   - [Installation](#installation)
-  - [Authors & contributors](#authors--contributors)
-  - [Acknowledgements](#Acknowledgements)
-  - [License](#License) 
+  - [Authors](#authors)
+
   
   </details>  
   
